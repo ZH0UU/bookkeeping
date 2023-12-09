@@ -16,4 +16,4 @@ void showQueryMenu();
 // Input Checking Function
 char readMenuSelection(int options);
 char readQuitConfirm();
-int readAmount(); 
+int readAmount();
